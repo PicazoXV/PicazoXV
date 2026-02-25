@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/PicazoXV/PicazoXV/blob/main/Banner%20GitHub.png)
 
-🚀 **Jr Full Stack Developer | UX / UI Design | Responsive WebSites**
+🚀 **Full Stack Developer | UX / UI Design | Responsive WebSites**
 
 Soy desarrollador web enfocado en crear aplicaciones modernas, funcionales y visualmente atractivas.
 
