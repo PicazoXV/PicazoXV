@@ -1,16 +1,20 @@
-## Hi there 👋
+# console.log('Hola Mundo 👋')
 
-<!--
-**PicazoXV/PicazoXV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ **Jr Web Developer** apasionado por construir experiencias web modernas, funcionales y visualmente atractivas.
 
-Here are some ideas to get you started:
+Me encanta crear aplicaciones con código **limpio, estructurado y mantenible**, cuidando tanto la lógica como el diseño.  
+Siempre buscando mejorar, aprender nuevas tecnologías y enfrentar nuevos retos 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Encuéntrame aquí:
+
+- 💼 **Portafolio:**  
+  https://alexpicazohuerta-portfolio.netlify.app
+
+- 🔗 **LinkedIn:**  
+  https://www.linkedin.com/in/alex-picazo-huerta-265723240/
+
+---
+
+📌 Actualmente estoy en búsqueda de **nuevas oportunidades laborales** donde pueda aportar valor, crecer profesionalmente y seguir desarrollando soluciones web increíbles.
