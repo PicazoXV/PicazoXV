@@ -57,6 +57,8 @@ Actualmente estoy en búsqueda de **nuevas oportunidades laborales**, donde pued
 👉 Activo compartiendo cosas en  
 [**LinkedIn**](https://www.linkedin.com/in/alex-picazo-huerta-265723240/)
 
+👉 Descarga mi  
+[**CV**](./assets/AlexPicazoHuertaCV(1).pdf)
 ---
 
 ## ✨ Sobre mí
