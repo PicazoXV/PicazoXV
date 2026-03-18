@@ -6,6 +6,8 @@
 
 Soy desarrollador web enfocado en crear aplicaciones modernas, funcionales y visualmente atractivas.
 
+Creador de MiPrimerIssue 🌎
+
 Me especializo en escribir código **limpio, mantenible y bien estructurado**, combinando lógica sólida con diseño intuitivo.  
 Disfruto construyendo interfaces centradas en el usuario y experiencias web fluidas.
 
